@@ -1,0 +1,13 @@
+{
+  "name": "com.clay.common",
+  "version": "1.0.0",
+  "description": "com.clay 公共库",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "itta163@163.com",
+  "license": "MIT",
+  "dependencies": {
+    "umi-request": "^1.3.5"
+  }
+}

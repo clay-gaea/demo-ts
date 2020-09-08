@@ -1,0 +1,13 @@
+{
+  "name": "com.clay.uac-simple-api",
+  "version": "1.0.0",
+  "description": "uac simple",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "itta163@163.com",
+  "license": "MIT",
+  "dependencies": {
+    "com.clay.common": "file:../common"
+  }
+}
